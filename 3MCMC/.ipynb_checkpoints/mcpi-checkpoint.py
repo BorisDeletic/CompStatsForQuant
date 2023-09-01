@@ -1,5 +1,10 @@
 # first we will code a naive example
 # we take a quarter of a circle and count the number in and out of the circle
+
+import random
+import numpy as np
+import matplotlib.pyplot as plt
+
 # define variables
 n_samples = 100000
 
@@ -36,12 +41,12 @@ cum_estimate = estimate_pi_vectorised(n_samples=n_samples)
 
 cum_samples = np.arange(1, n_samples + 1)
 
-plt.plot(cum_samples, cum_estimate)
-plt.plot(cum_samples, np.repeat(np.pi, n_samples))
-plt.ylim(3,3.3)
-plt.xlabel("no. of samples")
-plt.ylabel("estimate of pi")
-plt.show()
+# plt.plot(cum_samples, cum_estimate)
+# plt.plot(cum_samples, np.repeat(np.pi, n_samples))
+# plt.ylim(3,3.3)
+# plt.xlabel("no. of samples")
+# plt.ylabel("estimate of pi")
+# plt.show()
 
 # plt.plot(cum_samples, cum_estimate - np.pi)
 # plt.show()

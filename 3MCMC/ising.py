@@ -64,13 +64,13 @@ mags = []
 
 # print(np.mean(mags))
 
-# plt.plot(mags)
-# plt.axhline(np.mean(mags), color='tab:orange', label='mean magnetisation')
-# plt.xlabel('iteration')
-# plt.ylabel('magnetisation')
-# plt.title('magnetisation vs markov-chain step T={}'.format(temp))
-# plt.legend(loc='upper right')
-# plt.show()
+plt.plot(mags)
+plt.axhline(np.mean(mags), color='tab:orange', label='mean magnetisation')
+plt.xlabel('iteration')
+plt.ylabel('magnetisation')
+plt.title('magnetisation vs markov-chain step T={}'.format(temp))
+plt.legend(loc='upper right')
+plt.show()
 
 steps = 1000
 n = 10
