@@ -12,19 +12,19 @@ Each of the 5 topics are structured with two projects.
 The first aims to introduce the new concept and guide you through a simple example with short exercises to build familiarity with the subject. 
 The second project is a more advanced application of the topic, with only an introduction to the problem and a few goals to get you started, being more open-ended for you to explore.
 
-1. Linear Regression
+1. ### Linear Regression
    * project a 
    * project b
-2. Bayesian Inference
+2. ### Bayesian Inference
    * Coins in a bag
    * Measuring the expansion of the universe (Cosmology)
-3. Markov-Chain Monte-Carlo
+3. ### Markov-Chain Monte-Carlo
    * Estimating Pi
    * Ising Model 
-4. Principle Component Analysis
+4. ### Principle Component Analysis
    * project a
    * project b
-5. Game Theory
+5. ### Game Theory
    * Rock Paper Scissors
    * project b
 
@@ -39,4 +39,16 @@ This is not the best use of your time the weekend before your interview. You can
 
 ## Gallery
 Here is a highlight of some of the results which you should be able to acheive after finishing this book.
+
+![bayes_update](2Bayes/figs/bayesian_updating.png)
+Bayesian updating of flipping a biased coin
+
+![cosmo_post](2Bayes/figs/cosmological_posterior.png)
+Probability distribution of Dark matter / Dark energy content of universe from supernova data
+
+![pi_estimate](3MCMC/figs/pi_estimate.gif)
+Monte Carlo moving estimate of pi
+
+![phase_transition](3MCMC/figs/phase_transition.png)
+Measured phase transition in the statistical Ising model
 
