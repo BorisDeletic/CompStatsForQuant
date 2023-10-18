@@ -44,19 +44,19 @@ Here is a highlight of some of the results which you should be able to acheive a
   <img src="2Bayes/figs/bayesian_updating.png" alt="bayesian updating"/>
   <figcaption>Bayesian updating of flipping a biased coin.</figcaption>
 </figure>
-
+<br />
 
 <figure>
   <img src="2Bayes/figs/cosmological_posterior.png" alt="cosmo posterior"/>
   <figcaption>Probability distribution of Dark matter / Dark energy content of universe from supernova data</figcaption>
 </figure>
-
+<br />
 
 <figure>
   <img src="3MCMC/figs/pi_estimate.gif" alt="cosmo posterior"/>
   <figcaption>Monte Carlo moving estimate of pi</figcaption>
 </figure>
-
+<br />
 
 <figure>
   <img src="3MCMC/figs/phase_transition.png" alt="phase_transition"/>
