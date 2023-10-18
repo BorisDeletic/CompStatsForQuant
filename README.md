@@ -41,14 +41,14 @@ This is not the best use of your time the weekend before your interview. You can
 Here is a highlight of some of the results which you should be able to acheive after finishing this book.
 
 ![bayes_update](2Bayes/figs/bayesian_updating.png)
-Bayesian updating of flipping a biased coin
+*Bayesian updating of flipping a biased coin*
 
 ![cosmo_post](2Bayes/figs/cosmological_posterior.png)
-Probability distribution of Dark matter / Dark energy content of universe from supernova data
+*Probability distribution of Dark matter / Dark energy content of universe from supernova data*
 
 ![pi_estimate](3MCMC/figs/pi_estimate.gif)
-Monte Carlo moving estimate of pi
+*Monte Carlo moving estimate of pi*
 
 ![phase_transition](3MCMC/figs/phase_transition.png)
-Measured phase transition in the statistical Ising model
+*Measured phase transition in the statistical Ising model using MCMC*
 
