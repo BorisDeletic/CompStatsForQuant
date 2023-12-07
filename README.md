@@ -4,29 +4,24 @@
 This notebook is a set of short guided projects to help build skills and intuition for the types of problems we have found to be useful for a career in Quantitative Finance. The main topics we will try focus on are
 * Writing fast, vectorized python code
 * Statistics, probability, and Bayesian inference
+* Creating simple, readable graphs with matplotlib to quickly portray and analyse data
 * Linear algebra and applications to statistical foundations of ML
 * Monte Carlo methods and Markov-Chain processes for statistical models
 * Introduction to Game Theory
 
-Each of the 5 topics are structured with two projects. 
+Each of the 3 topics are structured with two projects. 
 The first aims to introduce the new concept and guide you through a simple example with short exercises to build familiarity with the subject. 
 The second project is a more advanced application of the topic, with only an introduction to the problem and a few goals to get you started, being more open-ended for you to explore.
 
-1. ### Linear Regression
-   * project a 
-   * project b
-2. ### Bayesian Inference
+1. ### Bayesian Inference
    * Coins in a bag
    * Measuring the expansion of the universe (Cosmology)
-3. ### Markov-Chain Monte-Carlo
+2. ### Markov-Chain Monte-Carlo
    * Estimating Pi
    * Ising Model 
-4. ### Principle Component Analysis
-   * project a
-   * project b
-5. ### Game Theory
+3. ### Game Theory
    * Rock Paper Scissors
-   * project b
+   * Quant Interview Game
 
 These projects hope to peak your interest and show you what is out there. 
 
@@ -65,7 +60,7 @@ Here is a highlight of some of the results which you should be able to acheive a
 <p>&nbsp;</p> <!-- Add vertical spacing -->
 
 <figure>
-  <img src="3GameTheory/figs/rcs_convergence" alt="rock-paper-scissors"/>
+  <img src="3GameTheory/figs/rps_convergence.png" alt="rock-paper-scissors"/>
   <figcaption>CFR Convergence to nash equilibrium in rock-paper-scissors</figcaption>
 </figure>
 <p>&nbsp;</p> <!-- Add vertical spacing -->
