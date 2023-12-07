@@ -41,26 +41,33 @@ This is not the best use of your time the weekend before your interview. You can
 Here is a highlight of some of the results which you should be able to acheive after finishing this book.
 
 <figure>
-  <img src="2Bayes/figs/bayesian_updating.png" alt="bayesian updating"/>
+  <img src="1Bayes/figs/bayesian_updating.png" alt="bayesian updating"/>
   <figcaption>Bayesian updating of flipping a biased coin.</figcaption>
 </figure>
 <p>&nbsp;</p> <!-- Add vertical spacing -->
 
 <figure>
-  <img src="2Bayes/figs/cosmological_posterior.png" alt="cosmo posterior"/>
+  <img src="1Bayes/figs/cosmological_posterior.png" alt="cosmo posterior"/>
   <figcaption>Probability distribution of Dark matter / Dark energy content of universe from supernova data</figcaption>
 </figure>
 <p>&nbsp;</p> <!-- Add vertical spacing -->
 
 <figure>
-  <img src="3MCMC/figs/pi_estimate.gif" alt="cosmo posterior"/>
+  <img src="2MCMC/figs/pi_estimate.gif" alt="cosmo posterior"/>
   <figcaption>Monte Carlo moving estimate of pi</figcaption>
 </figure>
 <p>&nbsp;</p> <!-- Add vertical spacing -->
 
 <figure>
-  <img src="3MCMC/figs/phase_transition.png" alt="phase_transition"/>
+  <img src="2MCMC/figs/phase_transition.png" alt="phase_transition"/>
   <figcaption>Measured phase transition in the statistical Ising model using MCMC</figcaption>
 </figure>
+<p>&nbsp;</p> <!-- Add vertical spacing -->
+
+<figure>
+  <img src="3GameTheory/figs/rcs_convergence" alt="rock-paper-scissors"/>
+  <figcaption>CFR Convergence to nash equilibrium in rock-paper-scissors</figcaption>
+</figure>
+<p>&nbsp;</p> <!-- Add vertical spacing -->
 
 
