@@ -5,7 +5,6 @@ This notebook is a set of short guided projects to help build skills and intuiti
 * Writing fast, vectorized python code
 * Statistics, probability, and Bayesian inference
 * Creating simple, readable graphs with matplotlib to quickly portray and analyse data
-* Linear algebra and applications to statistical foundations of ML
 * Monte Carlo methods and Markov-Chain processes for statistical models
 * Introduction to Game Theory
 
