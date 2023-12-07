@@ -60,7 +60,7 @@ Here is a highlight of some of the results which you should be able to acheive a
 <p>&nbsp;</p> <!-- Add vertical spacing -->
 
 <figure>
-  <img src="3GameTheory/figs/rps_convergence.png" alt="rock-paper-scissors"/>
+  <img src="3GameTheory/figs/rps_converging.png" alt="rock-paper-scissors"/>
   <figcaption>CFR Convergence to nash equilibrium in rock-paper-scissors</figcaption>
 </figure>
 <p>&nbsp;</p> <!-- Add vertical spacing -->
