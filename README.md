@@ -30,7 +30,7 @@ This is not for interview preperation. There are lots of good existing sources f
 
 This is not the best use of your time the weekend before your interview. You can easily spend months learning each of these topics in far more depth and nuance, as they are all extremely rich and we only scratch the surface.
 
-
+You can find the full solutions in the solutions branch of the GitHub, but try to only look at them as a last resort.
 
 ## Gallery
 Here is a highlight of some of the results which you should be able to acheive after finishing this book.
